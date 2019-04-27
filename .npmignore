@@ -1,0 +1,12 @@
+.git/
+.idea/
+src/
+node_modules/
+.DS_Store
+.gitattributes
+.gitignore
+npm-debug.log
+tsconfig.json
+tslint.json
+yarn-debug.log
+yarn-error.log

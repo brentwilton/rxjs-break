@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "lib": ["dom", "es2015"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "noEmitHelpers": true,
+    "outDir": "./lib",
+    "rootDir": "./src",
+    "sourceMap": true,
+    "strict": true,
+    "stripInternal": true,
+    "target": "es5",
+    "types": ["node", "webpack", "webpack-sources"]
+  },
+  "files": [
+    "src/index.ts"
+  ]
+}
